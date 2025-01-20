@@ -1,5 +1,6 @@
 # 💫 About Me:
-React Pro<br> Backend Developer <br> because I'm pretty, I write pretty codes <br> 
+React Pro<br> Backend Developer <br> Because I'm pretty, I write pretty codes <br> There's always a loop hole in programming<br>
+
 
 
 ## 🌐 Socials:
