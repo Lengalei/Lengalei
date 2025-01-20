@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with React for my Front-end framework<br>I'm learning Node JS for backend<br>I want to collaborate on SQL for database<br>
+React Pro<br> Backend Developer <br> because I'm pretty, I write pretty codes <br> 
 
 
 ## 🌐 Socials:
@@ -11,6 +11,8 @@ I'm currently working with React for my Front-end framework<br>I'm learning Node
 ![](https://github-readme-stats.vercel.app/api?username=Lengalei&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lengalei&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lengalei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lengalei)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lengalei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
