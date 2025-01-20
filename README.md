@@ -12,7 +12,6 @@ React Pro<br> Backend Developer <br> because I'm pretty, I write pretty codes <b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lengalei&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lengalei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lengalei)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lengalei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
