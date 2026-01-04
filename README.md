@@ -1,5 +1,5 @@
 # 💫 About Me:
-React Pro<br> Backend Developer <br> I write pretty codes <br> Teching it to another level 😊<br>
+React Pro <br> Front-end: Js, Ts, UI/UX, CI/CD and more...<br> Backend:  java Springboot and Nodejs <br> I write production grade codes <br> Teching it to another level 😊<br>
 
 
 
